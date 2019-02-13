@@ -1,4 +1,4 @@
-
+﻿
 // Tabler bootstrap variables
 @import "../vendor/tabler/scss/variables";
 
@@ -139,7 +139,14 @@ button:focus {
   max-width: 150px;
   height: auto;
 }
-
-.image-preview img{
+.image-preview img {
   width: 100%;
+}
+.doika-btn-help {
+  margin-top:auto !important;
+  margin-bottom:20px;
+  width: 80%;
+  min-height: 50px;
+  height: auto;
+  white-space: normal;
 }

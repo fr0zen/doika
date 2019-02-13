@@ -6,7 +6,7 @@
         <AppSearch></AppSearch>
         <SidebarNav :nav-items="nav">
         </SidebarNav>
-        <b-button class="container-fluid btn btn-success" style="margin-top:auto !important; margin-bottom:20px; width: 80%; height: 50px;">
+        <b-button class="container-fluid btn btn-success doika-btn-help">
           {{ $t('buttons.admin.support') }}
         </b-button>
         <SidebarFooter>
